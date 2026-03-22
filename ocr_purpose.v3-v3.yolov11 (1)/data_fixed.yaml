@@ -1,0 +1,6 @@
+train: c:\Users\ssingh49\OCR\ocr_purpose.v3-v3.yolov11 (1)\train\images
+val: c:\Users\ssingh49\OCR\ocr_purpose.v3-v3.yolov11 (1)\valid\images
+test: c:\Users\ssingh49\OCR\ocr_purpose.v3-v3.yolov11 (1)\test\images
+
+nc: 2
+names: ['check', 'nan']

@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['check', 'nan']
+
+roboflow:
+  workspace: ocrdigitdetection-r2lr4
+  project: ocr_purpose
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ocrdigitdetection-r2lr4/ocr_purpose/dataset/3
